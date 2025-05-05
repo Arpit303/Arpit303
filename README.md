@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arpit
 - 👀 I’m interested in codes and solving problems
-- 🌱 I’m currently learning Data Analysis
+- 🌱 I’m currently learning Data & Business Analysis
 - 💞️ I’m looking to collaborate on Data
 - 📫 arpit.j303@gmail.com
 - Linkedin https://www.linkedin.com/in/arpit-jain-303/
